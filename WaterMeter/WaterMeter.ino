@@ -9,8 +9,8 @@
 #include <WiFiUdp.h>
 
 //Wi-Fi Setup
-#define WLAN_SSID    "RonnyPC"
-#define WLAN_PASS    "123456789"
+#define WLAN_SSID    "Galaxybobs"
+#define WLAN_PASS    "12345667"
 
 //WiFi LED
 const int BlueLed = 13; //GPIO 13 which is D7
